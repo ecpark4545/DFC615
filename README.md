@@ -18,7 +18,7 @@ email={ec_park@korea.ac.kr}}
 
 실습 1강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zq2dsIutiynISBAz_4henQy4MoJeexGX?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yIb4GslGqQedx_FQavDpLjUH9ylSZQAY?usp=sharing)
 
-실습 2강: 추후 공개
+실습 2강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17l3nOF3oqFWvARNtfrUapWCOo0DE_uQF/view?usp=sharing)
 
 실습 3강: 추후 공개
 
