@@ -24,7 +24,7 @@ email={ec_park@korea.ac.kr}}
 
 실습 4강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oRClJhw8SGpZLXLNQgUnlG7wJZFkFuSe?usp=sharing)
 
-실습 5강: 추후 공개
+실습 5강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LcpVuIV_x385f5r7rh5lmERKbObAh44u?usp=sharing)
 
 실습 6강: 추후 공개
 
@@ -44,7 +44,7 @@ email={ec_park@korea.ac.kr}}
 |**실습 4.**|
 |KERAS 기초 실습|
 |**실습 5.**|
-|LSTM으로 문장 생성하기 & 기계번역 실|
+|LSTM으로 문장 생성하기 & 기계번역 실습|
 |**실습 6.**|
 |BERT 기반 감정분석 실습|
 |**실습 7.**|
