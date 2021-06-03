@@ -29,6 +29,7 @@ email={ec_park@korea.ac.kr}}
 실습 6강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16zBqA0hZnSPQta3x1Kg4KzNB1yOjhKwA?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JEAPNMSowoT-pIjCCjGs1KjI7QIZwBJz?usp=sharing)
 
 실습 7강: 추후 공개
+실습 7강 자료 ([!Train](https://drive.google.com/file/d/1Ef-1ChczksfZJEAgDmk8xH6HEWWhEPi8/view?usp=sharing) [!Test](https://drive.google.com/file/d/17laY4hd6CjT75dNBNyHgaogDfODqK6ND/view?usp=sharing)]
 
 ### 실습 계획표
 
