@@ -30,7 +30,7 @@ email={ec_park@korea.ac.kr}}
 
 실습 7강: 추후 공개
 
-실습 7강 자료 ([test.json](https://drive.google.com/file/d/1_PzHsNiTRnHf_CTK89pC07Joarf7rH_I/view?usp=sharing])
+실습 7강 자료 [test.json](https://drive.google.com/file/d/1_PzHsNiTRnHf_CTK89pC07Joarf7rH_I/view?usp=sharing])
 
 ### 실습 계획표
 
