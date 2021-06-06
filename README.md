@@ -30,7 +30,7 @@ email={ec_park@korea.ac.kr}}
 
 실습 7강: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1USj5VNtdNe61Tq51mnpKS8KSMFK3ZJf0?usp=sharing)
 
-실습 7강 자료 [test.json](https://drive.google.com/file/d/1_PzHsNiTRnHf_CTK89pC07Joarf7rH_I/view?usp=sharing]) [train_file_cache](https://drive.google.com/file/d/1-C6I89z4gwDjR0b0Y_YlzpnS3YeiRF73/view?usp=sharing) [dev_file_cache](https://drive.google.com/file/d/1-IN-mRoDdm1EiUIW1I2KobWdUsKXwHcB/view?usp=sharing)
+실습 7강 자료 [test.json](https://drive.google.com/file/d/1_PzHsNiTRnHf_CTK89pC07Joarf7rH_I/view?usp=sharing]) |  [train_file_cache](https://drive.google.com/file/d/1-C6I89z4gwDjR0b0Y_YlzpnS3YeiRF73/view?usp=sharing) |  [dev_file_cache](https://drive.google.com/file/d/1-IN-mRoDdm1EiUIW1I2KobWdUsKXwHcB/view?usp=sharing)
 
 * cache file은 실습에서 사용된 KoELECTRA-small-v3 모델로 만들어졌습니다. 다른 모델과의 호환은 불가능합니다.
 
